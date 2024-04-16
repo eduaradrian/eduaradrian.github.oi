@@ -17,29 +17,44 @@ flex-direction: column;
     text-align: center;
     color: black;
 }
-.sociales{
+.biologia {
     width: 100%;
     height: 400px;
     background-color: rgb(218, 233, 6);
-font-size: 30px;
+font-size: 16px;
 
 }
 .ingles{
     width: 100%;
     height: 400px;
     background-color: rgb(119, 252, 11);
-    font-size: 30px;
+    font-size: 16px;
 
 }
-.tecgnologia{
+
+
+   .matematicas {
+    
     width: 100%;
     height: 400px;
-    background-color: rgb(68, 202, 255);
-    font-size: 30px
+    background-color: rgb(126, 4, 163);
+    font-size: 16px;
+
+
+   }
+
+.quimica {
+    width: 100%;
+    height: 400px;
+    background-color: rgb(1, 65, 150);
+    font-size: 16px;  
+}
+.tecgnologia {
+    width: 100%;
+    height: 400px;
+    background-color: rgb(3, 147, 184);
+    font-size: 16px;  
 
 }
-   
-
-
    
 
