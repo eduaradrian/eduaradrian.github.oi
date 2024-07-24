@@ -5,37 +5,44 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(20, 20, 20);
+    color: rgb(0, 0, 0);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("22.jpg");
-    
+    background-image: url("98.jpg");
+            background-repeat: ("98.jpg");
 
 }
 
 .texto{
 font-size: 50px;
-padding-top: 140;
+padding-top: 145;
 text-align: justify;
-color: black;
+color: rgb(241, 241, 241);
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .titulo{
     font-size: 60px;
-    color: black;
+    color: rgb(253, 253, 253);
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.img{
-    height: 300px;
-    width: 300px;
-    background-image: url("90.png");
-    background-repeat: no-repeat;
+
+.img1{
+    height: 395px;
+    width: 395px;
     float: left;
+    background-image: url(90.png);
+}
+    
+.img2{
+    height: 200px;
+    width: 200px;
+    float: right;
+    background-image: url(imh.png);
 }
