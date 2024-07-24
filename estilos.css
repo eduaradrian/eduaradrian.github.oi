@@ -12,7 +12,30 @@
      
 }
 body{
-    background-image: url("fondo.jpg");
-    background-repeat: no-repeat;
+    background-image: url("22.jpg");
+    
 
+}
+
+.texto{
+font-size: 50px;
+padding-top: 140;
+text-align: justify;
+color: black;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo{
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.img{
+    height: 300px;
+    width: 300px;
+    background-image: url("90.png");
+    background-repeat: no-repeat;
+    float: left;
 }
