@@ -2,8 +2,8 @@
 
 .texto{
    
-    font-size: 50px;
-    padding-top: 140px;
+    font-size: 40px;
+    padding-top: 130px;
     text-align: justify;
     color: rgb(0, 0, 0);
 }
@@ -18,8 +18,8 @@ body{
 }
 
 .texto{
-font-size: 50px;
-padding-top: 145;
+font-size: 40px;
+padding-top: 130;
 text-align: justify;
 color: rgb(241, 241, 241);
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -46,3 +46,22 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     float: right;
     background-image: url(imh.png);
 }
+
+.imgmatematicas{
+    height: 100px;
+    width: 485px;
+    float: left;
+    background-image: url("img3.png");
+
+}
+
+.imgmatematicas2{
+    
+    height: 100px;
+    width: 485px;
+    float: left;
+    background-image: url("img4.png");
+
+}
+
+
