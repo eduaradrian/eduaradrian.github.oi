@@ -43,7 +43,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 .img2{
     height: 200px;
     width: 200px;
-    float: right;
+    float: left;
     background-image: url(imh.png);
 }
 
