@@ -3,7 +3,7 @@
 .texto{
    
     font-size: 40px;
-    padding-top: 130px;
+    padding-top: 120px;
     text-align: justify;
     color: rgb(0, 0, 0);
 }
@@ -19,7 +19,7 @@ body{
 
 .texto{
 font-size: 40px;
-padding-top: 130;
+padding-top: 120;
 text-align: justify;
 color: rgb(241, 241, 241);
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -63,5 +63,18 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-image: url("img4.png");
 
 }
+
+.sebas.png{
+    height: 100px;
+    width: 485px;
+    float: left;
+ background-image: url("sebas.png");
+
+
+}
+
+
+   
+
 
 
