@@ -73,7 +73,14 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
+.imgb1{
+height: 600px;
+width: 600px;
+background-image: url("lina.png");
+background-repeat: no-repeat;
 
+
+}
    
 
 
